@@ -1,0 +1,20 @@
+Thread 3: Barney is starting
+Thread 1: Fred is starting
+Thread 4: Wilma is starting
+Thread 2: Betty is starting
+Thread 2: Betty is thinking
+Thread 2: Betty tries to pick up Fork 4
+Thread 2: Betty picked up Fork 4
+Thread 4: Wilma is thinking
+Thread 4: Wilma tries to pick up Fork 2
+Thread 4: Wilma picked up Fork 2
+Thread 1: Fred is thinking
+Thread 1: Fred tries to pick up Fork 1
+Thread 1: Fred picked up Fork 1
+Thread 3: Barney is thinking
+Thread 3: Barney tries to pick up Fork 3
+Thread 3: Barney picked up Fork 3
+Thread 2: Betty tries to pick up Fork 1
+Thread 4: Wilma tries to pick up Fork 3
+Thread 1: Fred tries to pick up Fork 2
+Thread 3: Barney tries to pick up Fork 4

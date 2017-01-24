@@ -1,0 +1,9 @@
+SE 552 Assignment 7 
+
+To run simply compile and run MatMathImpl class from src folder.
+The main class is located within MatMathImpl.java file
+MatMathImpl runs off of initialized values for int[][]A,B,C,D,r,s,t
+MatMathImpl can also run off of a custom driver, it is noted in the MatMathImpl file in the Main Class (cont..)
+--It says to comment out initialized block, and uncomment custom driver block 
+StreamMatMathImpl is incomplete.
+I seem to struggle understanding how lambda statements and Java 8 streams work, especially in regards to 2-D arrays
